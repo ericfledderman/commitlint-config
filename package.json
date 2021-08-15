@@ -1,0 +1,22 @@
+{
+  "name": "@etfdev/commitlint-config",
+  "version": "0.1.0",
+  "description": "An opinionated collection of Commitlint rules. To be imported into other projects or used as a boilerplate for further Commitlint configurations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericfledderman/commitlint-config.git"
+  },
+  "keywords": [
+    "commitlint"
+  ],
+  "author": "Eric Fledderman <ericfledderman@me.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ericfledderman/commitlint-config/issues"
+  },
+  "homepage": "https://github.com/ericfledderman/commitlint-config#readme"
+}
