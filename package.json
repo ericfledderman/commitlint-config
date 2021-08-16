@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/ericfledderman/commitlint-config/issues"
   },
-  "homepage": "https://github.com/ericfledderman/commitlint-config#readme"
+  "homepage": "https://github.com/ericfledderman/commitlint-config#readme",
+  "devDependencies": {
+    "@commitlint/config-conventional": "^13.1.0"
+  }
 }
